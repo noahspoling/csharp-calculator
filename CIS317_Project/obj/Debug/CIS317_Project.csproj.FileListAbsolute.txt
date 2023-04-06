@@ -1,0 +1,9 @@
+c:\users\noapol7399\documents\visual studio 2015\Projects\CIS317_Project\CIS317_Project\bin\Debug\CIS317_Project.exe.config
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\bin\Debug\CIS317_Project.exe
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\bin\Debug\CIS317_Project.pdb
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.Calculator.resources
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.Properties.Resources.resources
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.csproj.GenerateResource.Cache
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.exe
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.pdb
+C:\Users\noapol7399\Documents\Visual Studio 2015\Projects\CIS317_Project\CIS317_Project\obj\Debug\CIS317_Project.csprojResolveAssemblyReference.cache
